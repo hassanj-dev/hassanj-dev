@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5227FF,50:7C3AED,100:06B6D4&height=200&section=header&text=Hassan%20Jamshaid&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Robotics%20%7C%20Software%20Development&descAlignY=58&descSize=17&animation=fadeIn" alt="Hassan Jamshaid - AI, Robotics and Software Development" width="100%" />
+  <img src="assets/banner.svg" alt="Hassan Jamshaid - AI, Robotics and Software Development" width="100%" />
 
   <a href="https://github.com/hassanj-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&height=40&lines=Building+useful+software;Exploring+intelligent+systems;Connecting+code+with+hardware;Bringing+ideas+to+life" alt="Typing animation" />
@@ -126,30 +126,26 @@ I'm **Hassan Jamshaid**, a BS Robotics student and developer working at the inte
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hassanj-dev/Vanguard-Finance-Ai">💜 Vanguard Finance AI</a></h3>
       <p>A finance-focused web application built with Next.js and TypeScript, deployed on Vercel.</p>
-      <a href="https://vanguard-finance-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<a href="https://vanguard-finance-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,ts&theme=dark" height="32" alt="nextjs,ts" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hassanj-dev/student-tools">🎓 Student Tools</a></h3>
       <p>A collection of handy web utilities for students, built with React and Vite.</p>
-      <a href="https://student-tools-eosin.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<a href="https://student-tools-eosin.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a><br />
+      <img src="https://skillicons.dev/icons?i=react,js&theme=dark" height="32" alt="react,js" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hassanj-dev/TextUtils-React">📝 TextUtils React</a></h3>
       <p>A React app for quick text manipulation and analysis.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=react,js&theme=dark" height="32" alt="react,js" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hassanj-dev/Shopping-Mart-System">🛒 Shopping Mart System</a></h3>
       <p>A C++ shopping-mart management system built with object-oriented design.</p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="OOP" />
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" alt="cpp" />
     </td>
   </tr>
 </table>
@@ -198,5 +194,5 @@ I'm **Hassan Jamshaid**, a BS Robotics student and developer working at the inte
 <div align="center">
   <i>Thanks for visiting! Feel free to explore my repositories, connect, or collaborate on something meaningful.</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5227FF,50:7C3AED,100:06B6D4&height=110&section=footer" width="100%" alt="Decorative footer" />
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </div>
