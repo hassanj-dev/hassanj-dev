@@ -10,7 +10,6 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 - ☁️ **Currently learning:** AWS, Docker, cloud computing, and DevOps
 - 🤝 **Open to:** Open-source contributions, collaboration, and interesting project ideas
 
----
 
 ## Tech Stack
 
@@ -79,7 +78,6 @@ I enjoy turning ideas into working projects, learning by building, and exploring
   <img src="https://img.shields.io/badge/DevOps-7C3AED?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" />
 </p>
 
----
 
 ## Featured Projects
 
@@ -126,7 +124,6 @@ I enjoy turning ideas into working projects, learning by building, and exploring
   </a>
 </p>
 
----
 
 ## GitHub Analytics
 
@@ -139,7 +136,6 @@ I enjoy turning ideas into working projects, learning by building, and exploring
   <img width="70%" src="https://streak-stats.demolab.com?user=hassanj-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 </p>
 
----
 
 ## Contribution Snake
 
@@ -151,7 +147,6 @@ I enjoy turning ideas into working projects, learning by building, and exploring
   </picture>
 </p>
 
----
 
 ## Let's Connect
 
