@@ -5,7 +5,7 @@
 
 <div align="center">
 
- <img src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/main/assets/banner.svg" alt="Hassan Jamshaid - AI, Robotics and Software Development" width="100%" />
+ <img src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/main/banner.svg" alt="Hassan Jamshaid - AI, Robotics and Software Development" width="100%" />
 
   <a href="https://github.com/hassanj-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&height=40&lines=Building+useful+software;Exploring+intelligent+systems;Connecting+code+with+hardware;Bringing+ideas+to+life" alt="Typing animation" />
@@ -194,5 +194,5 @@ I'm **Hassan Jamshaid**, a BS Robotics student and developer working at the inte
 <div align="center">
   <i>Thanks for visiting! Feel free to explore my repositories, connect, or collaborate on something meaningful.</i>
   <br /><br />
-  <img src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/main/assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/main/footer.svg" width="100%" alt="Footer" />
 </div>
