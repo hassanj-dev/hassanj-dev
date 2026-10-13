@@ -139,13 +139,7 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 
 ## Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake.svg?v=2" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake-dark.svg?v=2" width="100%" />
-  </picture>
-</p>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hassanj-dev/hassanj-dev/output/github-snake.svg" /> </picture> </div>
 
 
 ## Let's Connect
