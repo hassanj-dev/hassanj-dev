@@ -1,21 +1,190 @@
-# 💫 About Me:
-🔭 I'm currently building full-stack web applications using React, Next.js, and Node.js.<br>👯 I'm looking to collaborate on open-source projects, web applications, and AI-powered solutions.<br>🤝 I'm looking to collaborate with developers and contribute to real-world projects.<br>🌱 I'm currently learning AWS, Docker, Cloud Computing, and DevOps.<br>💬 Ask me about React, Next.js, Node.js, REST APIs, MongoDB, and Full-Stack Development.<br>🎓 I'm a BS Robotics student with a strong interest in Computer Science, Software Engineering, and AI.<br>⚡ Fun fact: I love turning ideas into real-world projects and exploring the intersection of software, robotics, and intelligent systems.
+<!--
+  Profile README for github.com/hassanj-dev
+  Tip: keep this file in a repository named exactly `hassanj-dev`.
+-->
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hassan-jamshaid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassan._.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-jamshaid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hassan-jamshaid) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/hassan-jamshaid) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hassanj-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hassanj-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hassanj-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hassanj-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5227FF,50:7C3AED,100:06B6D4&height=190&section=header&text=Hassan%20Jamshaid&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Robotics%20%7C%20Software%20Development&descAlignY=58&descSize=16&animation=fadeIn" alt="Hassan Jamshaid — AI, robotics and software development" width="100%" />
+  <h3>Building useful software, exploring intelligent systems, and bringing ideas to life.</h3>
+  <p>
+    <a href="https://github.com/hassanj-dev"><img src="https://img.shields.io/badge/GitHub-hassanj--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/hassan-jamshaid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.sparkdesk.online"><img src="https://img.shields.io/badge/Portfolio-Visit-5227FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-5227FF?style=flat-square" alt="AI and machine learning" />
+    <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Embedded%20Systems-0891B2?style=flat-square" alt="Robotics and embedded systems" />
+    <img src="https://img.shields.io/badge/Building-Full--Stack%20Apps-16A34A?style=flat-square" alt="Full-stack development" />
+  </p>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hassanj-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm **Hassan Jamshaid (`hassanj-dev`)**, a BS Robotics student and developer interested in the intersection of **software engineering, data science, AI, and robotics**. I enjoy building practical applications, learning by experimenting, and connecting software with real-world problems.
+
+- 🧠 **AI & Data Science:** exploring machine learning, deep learning, and data-driven solutions.
+- 🤖 **Robotics & Embedded Systems:** interested in Arduino, Raspberry Pi, and hardware-software integration.
+- 💻 **Software Development:** building with React, Next.js, Node.js, Python, and C++.
+- ☁️ **Currently learning:** AWS, Docker, cloud computing, and DevOps.
+- 🤝 **Open to:** open-source contributions, collaborative software projects, and AI-powered ideas.
+- ⚡ **Fun fact:** I like turning ideas into working projects and exploring how intelligent systems can solve real problems.
+
+## 🧭 What I Work With
+
+### 🧠 AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+</p>
+
+### 🤖 Robotics & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-334155?style=for-the-badge" alt="Embedded systems" />
+  <img src="https://img.shields.io/badge/Robotics-5227FF?style=for-the-badge" alt="Robotics" />
+</p>
+
+### 💻 Programming & Computer Science
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/OOP-334155?style=for-the-badge" alt="Object-oriented programming" />
+  <img src="https://img.shields.io/badge/Assembly%20Language-525252?style=for-the-badge" alt="Assembly language" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 🌐 Web Development, APIs & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### ☁️ Tools, Cloud & Design
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hassanj-dev/Vanguard-Finance-Ai">💜 Vanguard Finance AI</a></h3>
+      <p>A finance-focused web project built with Next.js and TypeScript.</p>
+      <a href="https://vanguard-finance-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hassanj-dev/student-tools">🎓 Student Tools</a></h3>
+      <p>A student-focused web project built with React and Vite.</p>
+      <a href="https://student-tools-eosin.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-5227FF?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hassanj-dev/TextUtils-React">📝 TextUtils React</a></h3>
+      <p>A React-based text utility project.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hassanj-dev/Shopping-Mart-System">🛒 Shopping Mart System</a></h3>
+      <p>A C++ project focused on a shopping-mart system.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="OOP" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/hassanj-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a></p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhassanj-dev&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=5227FF" alt="Public repository count" />
+  <img src="https://img.shields.io/github/stars/hassanj-dev?style=for-the-badge&label=Stars%20Earned&logo=github&logoColor=white&color=5227FF" alt="Stars earned" />
+  <img src="https://komarev.com/ghpvc/?username=hassanj-dev&style=for-the-badge&color=5227FF&label=Profile%20Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=hassanj-dev&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=github_dark&hide_border=true&title_color=8B5CF6&icon_color=22D3EE" height="175" alt="GitHub stats, commits and stars" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassanj-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=8B5CF6" height="175" alt="Most-used public repository languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hassanj-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6" width="70%" alt="GitHub contribution streak and longest streak" />
+</p>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/hassanj-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanj-dev&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+## 🗓️ Commit & Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanj-dev&theme=github_dark" width="100%" alt="Commit and contribution overview" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanj-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies" />
+</p>
+
+## 🌐 Find Me Around the Web
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-jamshaid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@hassan-jamshaid"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.kaggle.com/hassanjamshaidd"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/hassan-jamshaid"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://behance.net/hassan-jamshaid"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://www.instagram.com/hassan._.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://codepen.io/hassan-jamshaid"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Feel free to explore my repositories, connect, or collaborate on something meaningful.</i><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5227FF,50:7C3AED,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative footer" />
+</p>
