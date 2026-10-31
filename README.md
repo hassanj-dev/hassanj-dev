@@ -92,13 +92,13 @@ I enjoy turning ideas into working projects, learning by building, and exploring
       <a href="https://vanguard-finance-ai.vercel.app">↗ View live project</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/hassanj-dev/student-tools">SparkDesk · Student Tools</a></h3>
-      <p>A student-focused toolkit with useful utilities for studying and everyday tasks.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,vite,js&theme=dark" height="32" alt="React, Vite, and JavaScript" />
-      </p>
-      <a href="https://www.sparkdesk.online">↗ Visit SparkDesk</a>
-    </td>
+  <h3><a href="https://github.com/hassanj-dev/Skin-Lesion-Lens">Lesion Lens · Skin Lesion Classifier</a></h3>
+  <p>An AI-powered web app that classifies skin lesion photos into nine types, with Grad-CAM heatmaps, batch upload, CSV and report export, and English/Urdu support. Research prototype, not a medical diagnosis.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="32" alt="Python and TensorFlow" />
+  </p>
+  <a href="https://skin-lesion-lens.streamlit.app/">↗ Try Lesion Lens</a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
