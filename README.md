@@ -150,10 +150,8 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 
 <p align="center">
   <a href="https://github.com/hassanj-dev" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hassan-jamshaid" title="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/hassanjamshaidd" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="32" height="32" alt="Kaggle" /></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/hassan-jamshaid" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" /></a>&nbsp;&nbsp;
   <a href="https://www.behance.net/hassan-jamshaid" title="Behance"><img src="https://cdn.simpleicons.org/behance/1769FF" width="32" height="32" alt="Behance" /></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/hassan-jamshaid" title="CodePen"><img src="https://api.iconify.design/simple-icons:codepen.svg?color=%23FFFFFF" width="32" height="32" alt="CodePen" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/hassan._.exe" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" /></a>
 </p>
