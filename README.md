@@ -82,7 +82,7 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 ## Featured Projects
 
 <h2 align="center">✨ Featured Projects</h2>
-<p align="center"><sub>Things I've built, from AI to full-stack web apps</sub></p>
+<p align="center"><sub>Small ideas, built into working software</sub></p>
 
 <table>
   <tr>
