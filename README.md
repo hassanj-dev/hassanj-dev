@@ -87,51 +87,40 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/hassanj-dev/Vanguard-Finance-Ai">Vanguard Finance AI</a></h3>
+      <h3><a href="https://github.com/hassanj-dev/Vanguard-Finance-Ai">Vanguard Finance AI</a></h3>
       <p>A finance-focused web application built with Next.js and TypeScript.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,ts,vercel&theme=dark" height="32" alt="Next.js, TypeScript, and Vercel" />
       </p>
-      <p>
-        <a href="https://vanguard-finance-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
-        <a href="https://github.com/hassanj-dev/Vanguard-Finance-Ai"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-      </p>
+      <a href="https://vanguard-finance-ai.vercel.app">↗ View live project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/hassanj-dev/Skin-Lesion-Lens">Lesion Lens</a></h3>
-      <p>An AI web app that classifies skin lesion photos into nine types, with Grad-CAM heatmaps, batch upload, CSV and report export, and English/Urdu support. <i>Research prototype, not a medical diagnosis.</i></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="32" alt="Python and TensorFlow" />
-      </p>
-      <p>
-        <a href="https://skin-lesion-lens.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo" /></a>
-        <a href="https://github.com/hassanj-dev/Skin-Lesion-Lens"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-      </p>
-    </td>
+  <h3><a href="https://github.com/hassanj-dev/Skin-Lesion-Lens">Lesion Lens · Skin Lesion Classifier</a></h3>
+  <p>An AI-powered web app that classifies skin lesion photos into nine types, with Grad-CAM heatmaps, batch upload, CSV and report export, and English/Urdu support. Research prototype, not a medical diagnosis.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="32" alt="Python and TensorFlow" />
+  </p>
+  <a href="https://skin-lesion-lens.streamlit.app/">↗ Try Lesion Lens</a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/hassanj-dev/TextUtils-React">TextUtils React</a></h3>
+      <h3><a href="https://github.com/hassanj-dev/TextUtils-React">TextUtils React</a></h3>
       <p>A React application for quick text manipulation and analysis.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,js&theme=dark" height="32" alt="React and JavaScript" />
       </p>
-      <p>
-        <a href="https://github.com/hassanj-dev/TextUtils-React"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/hassanj-dev/Shopping-Mart-System">Shopping Mart System</a></h3>
+      <h3><a href="https://github.com/hassanj-dev/Shopping-Mart-System">Shopping Mart System</a></h3>
       <p>A C++ shopping-mart management system built using object-oriented programming concepts.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="32" alt="C++" />
       </p>
-      <p>
-        <a href="https://github.com/hassanj-dev/Shopping-Mart-System"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-      </p>
     </td>
   </tr>
 </table>
+
 <p align="center">
   <a href="https://github.com/hassanj-dev?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
