@@ -128,12 +128,7 @@ I enjoy turning ideas into working projects, learning by building, and exploring
 </p>
 
 
-## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanj-dev&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Hassan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanj-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
-</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=hassanj-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
